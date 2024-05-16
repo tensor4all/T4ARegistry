@@ -1,8 +1,8 @@
-# Tensors4Fields Registry
+# Tensor4All Registry
 
-[![Build Status](https://github.com/tensor4all/tensors4fieldsregistry/badges/main/pipeline.svg)](https://github.com/tensor4all/tensors4fieldsregistry/-/pipelines)
+[![CI](https://github.com/tensor4all/T4ARegistry/actions/workflows/CI.yml/badge.svg)](https://github.com/tensor4all/T4ARegistry/actions/workflows/CI.yml)
 
-This registry is intended for packages developed as part of the Tensors4Fields project. It simplifies installation and resolution of dependencies for users. To add this registry to your installation of julia, type the following in a REPL:
+This registry is intended for packages developed as part of the Tensor4All project. It simplifies installation and resolution of dependencies for users. To add this registry to your installation of julia, type the following in a REPL:
 
 ```console
 $ julia
@@ -15,7 +15,7 @@ $ julia
  _/ |\__'_|_|_|\__'_|  |  Official https://julialang.org/ release
 |__/                   |
 
-julia> using Pkg; Pkg.Registry.add(RegistrySpec(url="git@gitlab.com:tensors4fields/tensors4fieldsregistry.git"))
+julia> using Pkg; Pkg.Registry.add(RegistrySpec(url="git@github.com:tensor4all/T4ARegistry.git"))
 julia> exit()
 ```
 
