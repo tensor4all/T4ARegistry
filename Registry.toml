@@ -1,0 +1,6 @@
+name = "T4ARegistry"
+uuid = "058fea7b-8a9a-4ded-af83-bfc2d9718cdd"
+repo = "git@github.com:tensor4all/T4ARegistry.git"
+description = "Repository for T4A Julia libraries"
+
+[packages]
