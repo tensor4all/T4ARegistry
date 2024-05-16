@@ -1,0 +1,12 @@
+[0]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+TensorCrossInterpolation = "b261b2ec-6378-4871-b32e-9173bb050604"
+
+["0-0.1"]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
+["0-0.2"]
+ITensors = "9136182c-28ba-11e9-034c-db9fb085ebd5"
+
+["0.4-0"]
+QuanticsGrids = "634c7f73-3e90-4749-a1bd-001b8efc642d"

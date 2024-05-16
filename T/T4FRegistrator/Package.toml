@@ -1,0 +1,3 @@
+name = "T4FRegistrator"
+uuid = "91e13616-9c0c-417f-a2b7-e8b5c8dda907"
+repo = "git@gitlab.com:tensors4fields/T4FRegistrator.jl.git"

@@ -1,0 +1,3 @@
+name = "T4FTemplate"
+uuid = "519627e4-0024-4e53-9a9b-91785ee38aac"
+repo = "git@gitlab.com:tensors4fields/T4FTemplate.jl.git"
