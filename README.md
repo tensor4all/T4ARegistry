@@ -1,6 +1,6 @@
 # Tensor4All Registry
 
-[![CI](https://github.com/tensor4all/T4ARegistry/actions/workflows/CI.yml/badge.svg)](https://github.com/tensor4all/T4ARegistry/actions/workflows/CI.yml)
+[![Registry Consistency](https://github.com/tensor4all/T4ARegistry/actions/workflows/registry-consistency-ci.yml/badge.svg)](https://github.com/tensor4all/T4ARegistry/actions/workflows/registry-consistency-ci.yml)
 
 This registry is intended for packages developed as part of the Tensor4All project. It simplifies installation and resolution of dependencies for users. To add this registry to your installation of julia, type the following in a REPL:
 
