@@ -15,7 +15,7 @@ $ julia
  _/ |\__'_|_|_|\__'_|  |  Official https://julialang.org/ release
 |__/                   |
 
-julia> using Pkg; Pkg.Registry.add(RegistrySpec(url="git@github.com:tensor4all/T4ARegistry.git"))
+julia> using Pkg; Pkg.Registry.add(RegistrySpec(url="https://github.com/tensor4all/T4ARegistry.git"))
 julia> exit()
 ```
 
