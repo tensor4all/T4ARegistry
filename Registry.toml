@@ -1,7 +1,7 @@
-name = "Tensors4Fields"
+name = "Tensor4All"
 uuid = "70369466-349d-414e-a9e0-4f54144333cb"
-repo = "https://github.com/tensor4all/tensors4fieldsregistry.git"
-description = "Registry for Tensors4Fields packages, such as TensorCrossInterpolation.jl"
+repo = "https://github.com/tensor4all/T4ARegistry.git"
+description = "Registry for Tensor4All packages, such as TensorCrossInterpolation.jl"
 
 [packages]
 519627e4-0024-4e53-9a9b-91785ee38aac = { name = "T4FTemplate", path = "T/T4FTemplate" }
