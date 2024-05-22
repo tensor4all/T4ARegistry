@@ -40,3 +40,6 @@ EllipsisNotation = "1"
 OrderedCollections = "1"
 TCIITensorConversion = "0.1.3-0.1"
 TensorCrossInterpolation = "0.9.4-0.9"
+
+["0.4.3-0"]
+SpecialFunctions = "2"
