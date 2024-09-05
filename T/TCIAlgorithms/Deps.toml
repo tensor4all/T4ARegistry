@@ -21,3 +21,6 @@ CoverageTools = "c36e975a-824b-4404-a568-ef97ca766997"
 FastMPOContractions = "f6e391d2-8ffa-4d7a-98cd-7e70024481ca"
 LocalCoverage = "5f6e1e16-694c-5876-87ef-16b5274f298e"
 QuanticsGrids = "634c7f73-3e90-4749-a1bd-001b8efc642d"
+
+["0.4.5-0"]
+Quantics = "87f76fb3-a40a-40c9-a63c-29fcfe7b7547"
