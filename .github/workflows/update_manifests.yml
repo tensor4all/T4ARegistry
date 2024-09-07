@@ -23,7 +23,6 @@ jobs:
         version:
           # Keep this list in sync with `registry-consistency-ci.yml`.
           - '1.10'
-          - 'nightly'
     steps:
       - uses: actions/checkout@0ad4b8fadaa221de15dcec353f45205ec38ea70b # v3.3.0
       - uses: julia-actions/setup-julia@f2258781c657ad9b4b88072c5eeaf9ec8c370874 # v2.0.0
