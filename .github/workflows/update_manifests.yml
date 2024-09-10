@@ -96,7 +96,7 @@ jobs:
       - run: git status
       - uses: peter-evans/create-pull-request@6d6857d36972b65feb161a90e484f2984215f83e # v6.0.5
         with:
-          token: ${{ secrets.TAGBOT_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           delete-branch: true
           branch: 'update_manifests/single_pr/all_manifests'
           commit-message: '🤖 Update one or more manifest files in the `.ci` directory'
