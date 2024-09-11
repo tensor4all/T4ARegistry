@@ -78,6 +78,8 @@ jobs:
     needs: update_each_manifest
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    permissions:
+      pull-requests: write
     strategy:
       fail-fast: false
     steps:
