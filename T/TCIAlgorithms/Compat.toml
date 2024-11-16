@@ -64,3 +64,7 @@ FastMPOContractions = "0.2.2 - 0.2"
 QuanticsGrids = "0.3.1 - 0.3"
 TensorCrossInterpolation = "0.9.7 - 0.9"
 julia = "1.6.0 - 1"
+
+["0.4.7 - 0"]
+CoverageTools = "1"
+Quantics = "0.3"
