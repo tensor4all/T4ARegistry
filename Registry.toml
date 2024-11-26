@@ -4,6 +4,7 @@ repo = "https://github.com/tensor4all/T4ARegistry.git"
 description = "Registry for Tensor4All packages, such as TensorCrossInterpolation.jl"
 
 [packages]
+17ce1de9-5131-45e3-8a48-9723b6e2dc23 = { name = "PartitionedMPSs", path = "P/PartitionedMPSs" }
 3075f829-f72e-4896-a859-7fe0a9cabb9b = { name = "SimpleTensorNetworks", path = "S/SimpleTensorNetworks" }
 3cac4759-b6c4-45be-a543-65afe6a1360a = { name = "ProjMPSs", path = "P/ProjMPSs" }
 519627e4-0024-4e53-9a9b-91785ee38aac = { name = "T4FTemplate", path = "T/T4FTemplate" }
