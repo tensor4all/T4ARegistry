@@ -1,0 +1,3 @@
+name = "SimpleTensorTrains"
+uuid = "ff6377aa-e1b5-434b-8b4c-a9974c1be246"
+repo = "git@github.com:tensor4all/SimpleTensorTrains.jl.git"
