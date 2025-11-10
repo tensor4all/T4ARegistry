@@ -1,0 +1,4 @@
+[0]
+ITensorMPS = "0.3"
+ITensors = "0.9"
+julia = "1"

@@ -1,0 +1,3 @@
+name = "T4AITensorCompat"
+uuid = "864b39ca-388c-4f43-a593-a1076cf4b253"
+repo = "git@github.com:tensor4all/T4AITensorCompat.jl.git"
