@@ -19,4 +19,5 @@ b11687fd-3a1c-4c41-97d0-998ab401d50e = { name = "QuanticsTCI", path = "Q/Quantic
 b261b2ec-6378-4871-b32e-9173bb050604 = { name = "TensorCrossInterpolation", path = "T/TensorCrossInterpolation" }
 baf62351-2e82-41dd-9129-4f5768a618e1 = { name = "TCIAlgorithms", path = "T/TCIAlgorithms" }
 f6e391d2-8ffa-4d7a-98cd-7e70024481ca = { name = "FastMPOContractions", path = "F/FastMPOContractions" }
+f7a3e09c-877e-4116-af24-45397c1413c2 = { name = "T4APartitionedMPSs", path = "T/T4APartitionedMPSs" }
 ff6377aa-e1b5-434b-8b4c-a9974c1be246 = { name = "SimpleTensorTrains", path = "S/SimpleTensorTrains" }
