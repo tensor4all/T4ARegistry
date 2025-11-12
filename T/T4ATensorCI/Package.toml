@@ -1,0 +1,3 @@
+name = "T4ATensorCI"
+uuid = "14428447-6903-48c7-83df-f2cb08af9918"
+repo = "git@github.com:tensor4all/T4ATensorCI.jl.git"
