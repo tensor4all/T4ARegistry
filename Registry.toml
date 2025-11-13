@@ -1,25 +1,84 @@
 name = "Tensor4All"
-uuid = "70369466-349d-414e-a9e0-4f54144333cb"
 repo = "https://github.com/tensor4all/T4ARegistry.git"
+uuid = "70369466-349d-414e-a9e0-4f54144333cb"
 description = "Registry for Tensor4All packages, such as TensorCrossInterpolation.jl"
 
-[packages]
-14428447-6903-48c7-83df-f2cb08af9918 = { name = "T4ATensorCI", path = "T/T4ATensorCI" }
-17ce1de9-5131-45e3-8a48-9723b6e2dc23 = { name = "PartitionedMPSs", path = "P/PartitionedMPSs" }
-3075f829-f72e-4896-a859-7fe0a9cabb9b = { name = "SimpleTensorNetworks", path = "S/SimpleTensorNetworks" }
-3cac4759-b6c4-45be-a543-65afe6a1360a = { name = "ProjMPSs", path = "P/ProjMPSs" }
-519627e4-0024-4e53-9a9b-91785ee38aac = { name = "T4FTemplate", path = "T/T4FTemplate" }
-52e3f0f8-52ab-4798-a033-7b9fb81451b4 = { name = "T4ARegistrator", path = "T/T4ARegistrator" }
-634c7f73-3e90-4749-a1bd-001b8efc642d = { name = "QuanticsGrids", path = "Q/QuanticsGrids" }
-864b39ca-388c-4f43-a593-a1076cf4b253 = { name = "T4AITensorCompat", path = "T/T4AITensorCompat" }
-87f1ea11-1d4d-47cb-b1d1-07788fc25290 = { name = "PolynomialQTT", path = "P/PolynomialQTT" }
-87f76fb3-a40a-40c9-a63c-29fcfe7b7547 = { name = "Quantics", path = "Q/Quantics" }
-91e13616-9c0c-417f-a2b7-e8b5c8dda907 = { name = "T4FRegistrator", path = "T/T4FRegistrator" }
-99202d80-6772-4c79-995b-f2660cf2bd6d = { name = "T4AQuantics", path = "T/T4AQuantics" }
-9f0aa9f4-9415-4e6a-8795-331ebf40aa04 = { name = "TCIITensorConversion", path = "T/TCIITensorConversion" }
-b11687fd-3a1c-4c41-97d0-998ab401d50e = { name = "QuanticsTCI", path = "Q/QuanticsTCI" }
-b261b2ec-6378-4871-b32e-9173bb050604 = { name = "TensorCrossInterpolation", path = "T/TensorCrossInterpolation" }
-baf62351-2e82-41dd-9129-4f5768a618e1 = { name = "TCIAlgorithms", path = "T/TCIAlgorithms" }
-f6e391d2-8ffa-4d7a-98cd-7e70024481ca = { name = "FastMPOContractions", path = "F/FastMPOContractions" }
-f7a3e09c-877e-4116-af24-45397c1413c2 = { name = "T4APartitionedMPSs", path = "T/T4APartitionedMPSs" }
-ff6377aa-e1b5-434b-8b4c-a9974c1be246 = { name = "SimpleTensorTrains", path = "S/SimpleTensorTrains" }
+[packages.634c7f73-3e90-4749-a1bd-001b8efc642d]
+name = "QuanticsGrids"
+path = "Q/QuanticsGrids"
+
+[packages.baf62351-2e82-41dd-9129-4f5768a618e1]
+name = "TCIAlgorithms"
+path = "T/TCIAlgorithms"
+
+[packages.f7a3e09c-877e-4116-af24-45397c1413c2]
+name = "T4APartitionedMPSs"
+path = "T/T4APartitionedMPSs"
+
+[packages.519627e4-0024-4e53-9a9b-91785ee38aac]
+name = "T4FTemplate"
+path = "T/T4FTemplate"
+
+[packages.91e13616-9c0c-417f-a2b7-e8b5c8dda907]
+name = "T4FRegistrator"
+path = "T/T4FRegistrator"
+
+[packages.9f0aa9f4-9415-4e6a-8795-331ebf40aa04]
+name = "TCIITensorConversion"
+path = "T/TCIITensorConversion"
+
+[packages.f6e391d2-8ffa-4d7a-98cd-7e70024481ca]
+name = "FastMPOContractions"
+path = "F/FastMPOContractions"
+
+[packages.3075f829-f72e-4896-a859-7fe0a9cabb9b]
+name = "SimpleTensorNetworks"
+path = "S/SimpleTensorNetworks"
+
+[packages.3cac4759-b6c4-45be-a543-65afe6a1360a]
+name = "ProjMPSs"
+path = "P/ProjMPSs"
+
+[packages.17ce1de9-5131-45e3-8a48-9723b6e2dc23]
+name = "PartitionedMPSs"
+path = "P/PartitionedMPSs"
+
+[packages.52e3f0f8-52ab-4798-a033-7b9fb81451b4]
+name = "T4ARegistrator"
+path = "T/T4ARegistrator"
+
+[packages.864b39ca-388c-4f43-a593-a1076cf4b253]
+name = "T4AITensorCompat"
+path = "T/T4AITensorCompat"
+
+[packages.14428447-6903-48c7-83df-f2cb08af9918]
+name = "T4ATensorCI"
+path = "T/T4ATensorCI"
+
+[packages.b261b2ec-6378-4871-b32e-9173bb050604]
+name = "TensorCrossInterpolation"
+path = "T/TensorCrossInterpolation"
+
+[packages.ff6377aa-e1b5-434b-8b4c-a9974c1be246]
+name = "SimpleTensorTrains"
+path = "S/SimpleTensorTrains"
+
+[packages.12345678-1234-1234-1234-123456789abc]
+name = "TestPackage"
+path = "T/TestPackage"
+
+[packages.87f76fb3-a40a-40c9-a63c-29fcfe7b7547]
+name = "Quantics"
+path = "Q/Quantics"
+
+[packages.b11687fd-3a1c-4c41-97d0-998ab401d50e]
+name = "QuanticsTCI"
+path = "Q/QuanticsTCI"
+
+[packages.87f1ea11-1d4d-47cb-b1d1-07788fc25290]
+name = "PolynomialQTT"
+path = "P/PolynomialQTT"
+
+[packages.99202d80-6772-4c79-995b-f2660cf2bd6d]
+name = "T4AQuantics"
+path = "T/T4AQuantics"
