@@ -3,4 +3,9 @@ BitIntegers = "0.3.5 - 0.3"
 EllipsisNotation = "1"
 QuadGK = "2.9.0 - 2"
 Random = "1.9.0 - 1"
+
+["0 - 0.10"]
 julia = "1.9.0 - 1"
+
+["0.11 - 0"]
+julia = "1.10.0 - 1"
