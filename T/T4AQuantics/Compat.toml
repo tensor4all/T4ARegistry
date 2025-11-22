@@ -3,5 +3,10 @@ EllipsisNotation = "1"
 QuanticsTCI = "0.7"
 SparseIR = ["0.96 - 0.97", "1"]
 StaticArrays = "1"
-T4APartitionedMPSs = "0.7.3 - 0.7"
 julia = "1"
+
+["0 - 0.5"]
+T4APartitionedMPSs = "0.7.3 - 0.7"
+
+["0.6 - 0"]
+T4APartitionedTT = "0.8"
