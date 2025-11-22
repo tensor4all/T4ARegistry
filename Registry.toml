@@ -11,6 +11,7 @@ description = "Registry for Tensor4All packages, such as TensorCrossInterpolatio
 519627e4-0024-4e53-9a9b-91785ee38aac = { name = "T4FTemplate", path = "T/T4FTemplate" }
 52e3f0f8-52ab-4798-a033-7b9fb81451b4 = { name = "T4ARegistrator", path = "T/T4ARegistrator" }
 634c7f73-3e90-4749-a1bd-001b8efc642d = { name = "QuanticsGrids", path = "Q/QuanticsGrids" }
+7ada5264-53d5-494a-9572-4199565888e0 = { name = "T4APartitionedTT", path = "T/T4APartitionedTT" }
 864b39ca-388c-4f43-a593-a1076cf4b253 = { name = "T4AITensorCompat", path = "T/T4AITensorCompat" }
 87f1ea11-1d4d-47cb-b1d1-07788fc25290 = { name = "PolynomialQTT", path = "P/PolynomialQTT" }
 87f76fb3-a40a-40c9-a63c-29fcfe7b7547 = { name = "Quantics", path = "Q/Quantics" }
