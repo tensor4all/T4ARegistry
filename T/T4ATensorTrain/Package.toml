@@ -1,0 +1,3 @@
+name = "T4ATensorTrain"
+uuid = "ec6ec972-96ae-4a21-b859-3911b77e305f"
+repo = "https://github.com/tensor4all/T4ATensorTrain.jl.git"
