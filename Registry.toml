@@ -19,6 +19,7 @@ description = "Registry for Tensor4All packages, such as TensorCrossInterpolatio
 953bfbbc-cb66-4acc-a854-9589b1f489b2 = { name = "T4AMPOContractions", path = "T/T4AMPOContractions" }
 99202d80-6772-4c79-995b-f2660cf2bd6d = { name = "T4AQuantics", path = "T/T4AQuantics" }
 9f0aa9f4-9415-4e6a-8795-331ebf40aa04 = { name = "TCIITensorConversion", path = "T/TCIITensorConversion" }
+afea4b4e-08e0-4d7c-9da1-dbc7777ac29f = { name = "T4ATCIAlgorithms", path = "T/T4ATCIAlgorithms" }
 b11687fd-3a1c-4c41-97d0-998ab401d50e = { name = "QuanticsTCI", path = "Q/QuanticsTCI" }
 b261b2ec-6378-4871-b32e-9173bb050604 = { name = "TensorCrossInterpolation", path = "T/TensorCrossInterpolation" }
 baf62351-2e82-41dd-9129-4f5768a618e1 = { name = "TCIAlgorithms", path = "T/TCIAlgorithms" }
