@@ -16,13 +16,14 @@ description = "Registry for Tensor4All packages, such as TensorCrossInterpolatio
 87f1ea11-1d4d-47cb-b1d1-07788fc25290 = { name = "PolynomialQTT", path = "P/PolynomialQTT" }
 87f76fb3-a40a-40c9-a63c-29fcfe7b7547 = { name = "Quantics", path = "Q/Quantics" }
 91e13616-9c0c-417f-a2b7-e8b5c8dda907 = { name = "T4FRegistrator", path = "T/T4FRegistrator" }
+953bfbbc-cb66-4acc-a854-9589b1f489b2 = { name = "T4AMPOContractions", path = "T/T4AMPOContractions" }
 99202d80-6772-4c79-995b-f2660cf2bd6d = { name = "T4AQuantics", path = "T/T4AQuantics" }
 9f0aa9f4-9415-4e6a-8795-331ebf40aa04 = { name = "TCIITensorConversion", path = "T/TCIITensorConversion" }
 b11687fd-3a1c-4c41-97d0-998ab401d50e = { name = "QuanticsTCI", path = "Q/QuanticsTCI" }
 b261b2ec-6378-4871-b32e-9173bb050604 = { name = "TensorCrossInterpolation", path = "T/TensorCrossInterpolation" }
 baf62351-2e82-41dd-9129-4f5768a618e1 = { name = "TCIAlgorithms", path = "T/TCIAlgorithms" }
-ec6ec972-96ae-4a21-b859-3911b77e305f = { name = "T4ATensorTrain", path = "T/T4ATensorTrain" }
 c72b89c1-c391-41a7-b711-dfcca653bb47 = { name = "T4AMatrixCI", path = "T/T4AMatrixCI" }
+ec6ec972-96ae-4a21-b859-3911b77e305f = { name = "T4ATensorTrain", path = "T/T4ATensorTrain" }
 ef09ec98-57a2-49a0-bf0b-86b55a3d9051 = { name = "T4AQuanticsTCI", path = "T/T4AQuanticsTCI" }
 f6e391d2-8ffa-4d7a-98cd-7e70024481ca = { name = "FastMPOContractions", path = "F/FastMPOContractions" }
 f7a3e09c-877e-4116-af24-45397c1413c2 = { name = "T4APartitionedMPSs", path = "T/T4APartitionedMPSs" }
